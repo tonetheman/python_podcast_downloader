@@ -1,9 +1,7 @@
 
 # podcast puller
 
-A script I wrote to download all of the insane babblings of the christian nationalist mike johnson. 
-
-It should work to download other podcasts found on google podcasts.
+A script I wrote to download podcasts found on google podcasts.
 
 The code is extremely simple and naive.
 
